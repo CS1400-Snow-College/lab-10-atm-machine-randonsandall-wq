@@ -1,0 +1,14 @@
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\ATM-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\ATM-Project.AssemblyInfoInputs.cache
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\ATM-Project.AssemblyInfo.cs
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\ATM-Project.csproj.CoreCompileInputs.cache
+C:\Users\slink\ATM-Project\bin\Debug\net8.0\ATM-Project.exe
+C:\Users\slink\ATM-Project\bin\Debug\net8.0\ATM-Project.deps.json
+C:\Users\slink\ATM-Project\bin\Debug\net8.0\ATM-Project.runtimeconfig.json
+C:\Users\slink\ATM-Project\bin\Debug\net8.0\ATM-Project.dll
+C:\Users\slink\ATM-Project\bin\Debug\net8.0\ATM-Project.pdb
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\ATM-Project.dll
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\refint\ATM-Project.dll
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\ATM-Project.pdb
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\ATM-Project.genruntimeconfig.cache
+C:\Users\slink\ATM-Project\obj\Debug\net8.0\ref\ATM-Project.dll
